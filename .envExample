@@ -1,0 +1,9 @@
+#server
+PORT = 3000
+
+#database
+PGUSER =aviateur22
+PGHOST=joanie-2.cwdqa8ulgk8s.eu-west-3.rds.amazonaws.com
+PGDATABASE= joanieDB
+PGPASSWORD=MangerBouger2020Joanie
+PGPORT=5432
